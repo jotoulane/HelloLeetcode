@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05133c46-4f20-4770-b554-2f9e502f2bf3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/T45跳跃游戏II/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/T45跳跃游戏II/main.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../allAppInstall/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jotoulane"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="00d72463-8511-4f9b-bafa-9868166aa901" />
+        <option name="url" value="git@github.com:jotoulane/HelloLeetcode.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Leetcode/src/TT360笔试/TT360笔试.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;contexts&quot;: [
+    {
+      &quot;name&quot;: &quot;docker-desktop&quot;
+    }
+  ],
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="KubernetesSettings">
+    <option name="contextName" value="docker-desktop" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2K5VCNBhP4OcVriJIR5RzkWTujw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.TT360笔试.executor": "Run",
+    "DefaultGoTemplateProperty": "Go File",
+    "Go Build.go build main.go (1).executor": "Run",
+    "Go Build.go build main.go (2).executor": "Run",
+    "Go Build.go build main.go (3).executor": "Run",
+    "Go Build.go build main.go.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "configurable..is.expanded": "false",
+    "configurable.GoLibrariesConfigurable.is.expanded": "true",
+    "git-widget-placeholder": "main",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/allProject/ideaProject/HelloLeetcode",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\allProject\ideaProject\HelloLeetcode\Leetcode\src\T114二叉树展开为链表" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\allProject\ideaProject\HelloLeetcode\Leetcode\src" />
+      <recent name="D:\allProject\ideaProject\HelloLeetcode\Leetcode\src\T34在排序数组查找第一和最后一个位置" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="T104二叉树的最大深度" />
+      <recent name="T103二叉树的锯齿形层序遍历" />
+      <recent name="T102二叉树的层序遍历" />
+      <recent name="T25k个一组反转链表" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go (1)">
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Leetcode/src/T71简化路径/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Leetcode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Leetcode/src/T56合并区间/main.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build main.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_392-corretto-1.8.0_392-f644763e9732-f719d367" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05133c46-4f20-4770-b554-2f9e502f2bf3" name="Changes" comment="" />
+      <created>1673264302237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673264302237</updated>
+      <workItem from="1673442445616" duration="2554000" />
+      <workItem from="1673445355506" duration="1193000" />
+      <workItem from="1673483641487" duration="8721000" />
+      <workItem from="1675304322165" duration="44590000" />
+      <workItem from="1675848547113" duration="29000" />
+      <workItem from="1676420204412" duration="6933000" />
+      <workItem from="1676431559884" duration="12263000" />
+      <workItem from="1676514538547" duration="25000" />
+      <workItem from="1676591701766" duration="3911000" />
+      <workItem from="1676947318645" duration="5358000" />
+      <workItem from="1677120491817" duration="23490000" />
+      <workItem from="1677238043733" duration="5523000" />
+      <workItem from="1677633200735" duration="1612000" />
+      <workItem from="1677634860974" duration="5446000" />
+      <workItem from="1677824444309" duration="47000" />
+      <workItem from="1677826109731" duration="5028000" />
+      <workItem from="1677844463519" duration="27401000" />
+      <workItem from="1677938378085" duration="782000" />
+      <workItem from="1677980981503" duration="24000" />
+      <workItem from="1677997558577" duration="4754000" />
+      <workItem from="1678152632742" duration="13991000" />
+      <workItem from="1678407000440" duration="4282000" />
+      <workItem from="1678412934539" duration="412000" />
+      <workItem from="1679105220447" duration="4521000" />
+      <workItem from="1679147495749" duration="20000" />
+      <workItem from="1679147528606" duration="612000" />
+      <workItem from="1679148346259" duration="341000" />
+      <workItem from="1679272795927" duration="37000" />
+      <workItem from="1680480969540" duration="322000" />
+      <workItem from="1680573957284" duration="7031000" />
+      <workItem from="1680782282729" duration="3972000" />
+      <workItem from="1680915848680" duration="21958000" />
+      <workItem from="1681436064987" duration="35000" />
+      <workItem from="1681522509428" duration="3197000" />
+      <workItem from="1682148736980" duration="1708000" />
+      <workItem from="1682294814103" duration="1322000" />
+      <workItem from="1682576956940" duration="7775000" />
+      <workItem from="1683201777595" duration="3587000" />
+      <workItem from="1683596783051" duration="21000" />
+      <workItem from="1685330580703" duration="618000" />
+      <workItem from="1686187804094" duration="249000" />
+      <workItem from="1686188193642" duration="47000" />
+      <workItem from="1686188254792" duration="171000" />
+      <workItem from="1686305224256" duration="21000" />
+      <workItem from="1689502594166" duration="6441000" />
+      <workItem from="1689558498357" duration="1214000" />
+      <workItem from="1690114203857" duration="1670000" />
+      <workItem from="1690117116993" duration="1176000" />
+      <workItem from="1690118526908" duration="66000" />
+      <workItem from="1690118603195" duration="4900000" />
+      <workItem from="1690156610235" duration="2226000" />
+      <workItem from="1690355900273" duration="16000" />
+      <workItem from="1690442571033" duration="21000" />
+      <workItem from="1690786426776" duration="1150000" />
+      <workItem from="1690789375269" duration="52000" />
+      <workItem from="1690789436263" duration="6514000" />
+      <workItem from="1691197412171" duration="169000" />
+      <workItem from="1691197590476" duration="1813000" />
+      <workItem from="1692577615846" duration="5884000" />
+      <workItem from="1692586849201" duration="1481000" />
+      <workItem from="1692930026656" duration="145000" />
+      <workItem from="1693873385382" duration="3356000" />
+      <workItem from="1693877570165" duration="2651000" />
+      <workItem from="1693881246178" duration="96000" />
+      <workItem from="1693902118894" duration="8495000" />
+      <workItem from="1694066502335" duration="626000" />
+      <workItem from="1694069518580" duration="70000" />
+      <workItem from="1694069716721" duration="4483000" />
+      <workItem from="1694161630644" duration="103000" />
+      <workItem from="1694343599070" duration="719000" />
+      <workItem from="1694347312568" duration="2547000" />
+      <workItem from="1694862795240" duration="566000" />
+      <workItem from="1694864197146" duration="843000" />
+      <workItem from="1694866003194" duration="21000" />
+      <workItem from="1694869665710" duration="12000" />
+      <workItem from="1697009850654" duration="31000" />
+      <workItem from="1697009910384" duration="37000" />
+      <workItem from="1697334606915" duration="2000" />
+      <workItem from="1698037920408" duration="4000" />
+      <workItem from="1698323331836" duration="610000" />
+      <workItem from="1698371777573" duration="457000" />
+      <workItem from="1699533618648" duration="36000" />
+      <workItem from="1699763804479" duration="598000" />
+      <workItem from="1700554062918" duration="47000" />
+      <workItem from="1700554179021" duration="48000" />
+      <workItem from="1700571381778" duration="593000" />
+      <workItem from="1701160077810" duration="1049000" />
+      <workItem from="1702460625805" duration="1571000" />
+      <workItem from="1704370587200" duration="194000" />
+      <workItem from="1704448663849" duration="23000" />
+      <workItem from="1704778895420" duration="557000" />
+      <workItem from="1704779583128" duration="116000" />
+      <workItem from="1706576454396" duration="35000" />
+      <workItem from="1707751668810" duration="269000" />
+      <workItem from="1707752037063" duration="53000" />
+      <workItem from="1707752104856" duration="63000" />
+      <workItem from="1707752181308" duration="21000" />
+      <workItem from="1707752215531" duration="221000" />
+      <workItem from="1708347041529" duration="4784000" />
+      <workItem from="1708434578971" duration="5460000" />
+      <workItem from="1708474494725" duration="227000" />
+      <workItem from="1708476097769" duration="53000" />
+      <workItem from="1708477867987" duration="1087000" />
+      <workItem from="1708515123577" duration="4929000" />
+      <workItem from="1708521773517" duration="1871000" />
+      <workItem from="1708524216853" duration="276000" />
+      <workItem from="1708608403828" duration="2901000" />
+      <workItem from="1708611441104" duration="350000" />
+      <workItem from="1708694993988" duration="2503000" />
+      <workItem from="1708850652461" duration="328000" />
+      <workItem from="1708916205445" duration="596000" />
+      <workItem from="1708953028779" duration="2506000" />
+      <workItem from="1709028224691" duration="2014000" />
+      <workItem from="1709430062216" duration="2841000" />
+      <workItem from="1709435534784" duration="58000" />
+      <workItem from="1709510400054" duration="291000" />
+      <workItem from="1709554285508" duration="106000" />
+      <workItem from="1709555296821" duration="5724000" />
+      <workItem from="1709644339945" duration="3474000" />
+      <workItem from="1709729137990" duration="1891000" />
+      <workItem from="1709731245579" duration="253000" />
+      <workItem from="1709819876007" duration="1171000" />
+      <workItem from="1710163000545" duration="1612000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
