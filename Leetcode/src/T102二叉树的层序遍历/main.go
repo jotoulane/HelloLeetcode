@@ -10,6 +10,27 @@ type TreeNode struct {
 	Right *TreeNode
 }
 
-//func levelOrder(root *TreeNode) [][]int {
-//
-//}
+func levelOrder(root *TreeNode) [][]int {
+	ans := make([][]int, 0)
+	if root == nil {
+		return ans
+	}
+	q := []*TreeNode{root}
+	for len(q) > 0 {
+		n := len(q)
+		vals := make([]int, n)
+		for i := range vals {
+			node := q[0]
+			q = q[1:]
+			vals[i] = node.Val
+			if node.Left != nil {
+				q = append(q, node.Left)
+			}
+			if node.Right != nil {
+				q = append(q, node.Right)
+			}
+		}
+		ans = append(ans, vals)
+	}
+	return ans
+}
